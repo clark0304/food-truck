@@ -12,6 +12,8 @@
 
 ## Get started
 
+#### Cli
+
 install:
 
 ```shell
@@ -28,6 +30,12 @@ get:
 ```shell
 some_funny_discovery.html
 ```
+
+#### Screenshot
+
+<img src="https://github.com/clark0304/food-truck/blob/main/img/phpunit.jpg">
+
+<img src="https://github.com/clark0304/food-truck/blob/main/img/some_funny_discovery.jpg">
 
 ## To be better
 
