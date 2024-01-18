@@ -33,9 +33,15 @@ some_funny_discovery.html
 
 #### Screenshot
 
-<img src="https://github.com/clark0304/food-truck/blob/main/img/phpunit.jpg">
+&nbsp;
 
-<img src="https://github.com/clark0304/food-truck/blob/main/img/some_funny_discovery.jpg">
+<img src="https://github.com/clark0304/food-truck/blob/main/img/phpunit.jpg" width="80%">
+
+&nbsp;
+
+<img src="https://github.com/clark0304/food-truck/blob/main/img/some_funny_discovery.jpg" width="80%">
+
+&nbsp;
 
 ## To be better
 
