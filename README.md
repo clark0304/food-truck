@@ -4,7 +4,7 @@
 
 ## Technical points
 
-- [x] Composer [package](https://packagist.org/packages/clark0304/meet-the-challenge)
+- [x] Composer [package](https://packagist.org/packages/clark0304/food-truck)
 - [x] PHPUnit
 - [x] automated script, document, annotation, demo & screenshot
 
