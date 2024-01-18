@@ -1,0 +1,23 @@
+{
+    "name": "clark0304/food-truck",
+    "description": "We could have some-funny-discovery from the food truck list, such as food, shop distribution and loading cars, so let's go.",
+    "type": "library",
+    "require": {
+        "php": ">=7",
+        "maatwebsite/excel": "^3",
+        "phpunit/phpunit": "^8||^9"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Clark0304\\FoodTruck\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "clark0304",
+            "email": "clark0304@163.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}

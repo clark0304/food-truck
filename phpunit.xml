@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit colors="true">
+    <testsuites>
+        <testsuite name="some_funny_discovery">
+            <directory suffix="">test</directory>
+            <file>test/TruckTest.php</file>
+            <file>test/FoodTest.php</file>
+            <file>test/NeighborhoodTest.php</file>
+        </testsuite>
+    </testsuites>
+    <logging>
+        <testdoxHtml outputFile="../../../some_funny_discovery.html"/>
+    </logging>
+</phpunit>
